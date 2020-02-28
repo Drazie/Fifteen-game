@@ -1,0 +1,3 @@
+C:\SolutionGameF\BoardFTests\obj\Debug\netcoreapp3.1\BoardFTests.csprojAssemblyReference.cache
+C:\SolutionGameF\BoardFTests\obj\Debug\netcoreapp3.1\BoardFTests.AssemblyInfoInputs.cache
+C:\SolutionGameF\BoardFTests\obj\Debug\netcoreapp3.1\BoardFTests.AssemblyInfo.cs

@@ -1,0 +1,8 @@
+C:\SolutionGameF\BoardF\bin\Debug\netstandard2.0\BoardF.deps.json
+C:\SolutionGameF\BoardF\bin\Debug\netstandard2.0\BoardF.dll
+C:\SolutionGameF\BoardF\bin\Debug\netstandard2.0\BoardF.pdb
+C:\SolutionGameF\BoardF\obj\Debug\netstandard2.0\BoardF.csprojAssemblyReference.cache
+C:\SolutionGameF\BoardF\obj\Debug\netstandard2.0\BoardF.AssemblyInfoInputs.cache
+C:\SolutionGameF\BoardF\obj\Debug\netstandard2.0\BoardF.AssemblyInfo.cs
+C:\SolutionGameF\BoardF\obj\Debug\netstandard2.0\BoardF.dll
+C:\SolutionGameF\BoardF\obj\Debug\netstandard2.0\BoardF.pdb
